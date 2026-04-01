@@ -71,4 +71,5 @@ Local storage usage
 Basic e-commerce functionality
 
 🙌 Author
+
 Agasthya Thota
