@@ -4,12 +4,19 @@ MiniMart is a simple and interactive e-commerce web application built using HTML
 
 🚀 Features
 🛍️ Browse products with images and prices
+
 🔍 Filter products by category (Electronics, Clothing, Accessories)
+
 ➕ Add items to cart
+
 ❌ Remove items from cart
+
 💰 Real-time total price calculation
+
 🧾 Checkout system with user details
+
 💾 Cart data stored using Local Storage
+
 🛠️ Tech Stack
 HTML
 CSS
